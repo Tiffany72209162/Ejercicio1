@@ -1,0 +1,47 @@
+h1{
+    color: orange;
+    text-decoration: underline;
+}
+
+.parrafo {
+    color: skyblue;
+}
+
+.parrafo .parrafo1{
+    color: orange;
+    text-decoration: underline;
+}
+
+.parrafo .parrafo2{
+    color: blue;
+    background-color: yellow;
+    font-weight: bold;
+
+}
+
+.p2 {
+    color: gray;
+}
+
+.p2 .p2_1{
+    color: yellow;
+    background-color: black;
+}
+
+.p2 .p2_2{
+    color: black;
+}
+
+.p2 .p2_3{
+    color: orange;
+    text-decoration: underline;
+} 
+
+.p2 .p2_4{
+    color: yellow;
+    background-color: black;
+}
+
+.p3{
+    color: gray;
+}
