@@ -30,6 +30,7 @@ h1{
 
 .p2 .p2_2{
     color: black;
+    font-weight: bold;
 }
 
 .p2 .p2_3{
@@ -41,7 +42,15 @@ h1{
     color: yellow;
     background-color: black;
 }
-
+.p2 .p2_5{
+    color: black;
+    font-weight: bold;
+}
+.p2 .p2_6{
+    color: orange;
+    text-decoration: underline;
+}
 .p3{
     color: gray;
 }
+
